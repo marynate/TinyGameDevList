@@ -23,3 +23,4 @@
 ## Reading
 #### Math
 [Better Explained](http://betterexplained.com/)
+[Vector Math for 3D Computer Graphics](http://chortle.ccsu.edu/vectorlessons/vectorindex.html)
